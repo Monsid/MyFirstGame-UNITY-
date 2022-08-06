@@ -1,3 +1,6 @@
+I didnt even know about git commit / push back when i made this.
+Probably won't work if you clone it and unzip, lol left here as a monument.
+
 # MyFirstGame-UNITY-
 I didnt pay much attention to the unity basics, I did however embark on this journey with the guidance of OOP principles, and though I may stray from them in Player object it... i call it a coping mechanism for dealing with the Unity Engine. This was lots of fun.
 
